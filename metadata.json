@@ -1,0 +1,8 @@
+{
+  "name": "CampusMate",
+  "description": "College attendance tracker according to college calendar, notes and assignments repository with admin portal, student view, and Gemini AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
